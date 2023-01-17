@@ -111,6 +111,7 @@ form {
     justify-content: space-between;
     padding: 5px 0;
     border: 2px solid white;
+    border-radius:10px ;
 }
 
 .heading-div {
