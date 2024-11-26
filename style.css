@@ -100,7 +100,6 @@ form {
 }
 
 .span {
-
     margin: 10px 2px;
     background-color: rgba(0, 0, 0, 0.381);
     height: 350px;
@@ -124,8 +123,7 @@ form {
 }
 
 .text-div {
-    min-height:fit-content;
-/*     height: 220px; */
+    height: 220px;
     width: 290px;
     overflow: auto;
     color: white;
