@@ -124,7 +124,8 @@ form {
 }
 
 .text-div {
-    height: 220px;
+    min-height:fit-content;
+/*     height: 220px; */
     width: 290px;
     overflow: auto;
     color: white;
@@ -135,7 +136,7 @@ form {
 }
 
 .delete-btn {
-    width: 250px;
+    width: 100%;
     border: none;
     height: 35px;
     background-color: red;
